@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Dhanashri
 
-<!--
-**Dhanashri-Adawade/Dhanashri-Adawade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student with a strong interest in  
+**Python programming and SQL-based problem solving**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+- Strengthening Python fundamentals  
+- Learning SQL and database management 
+
+---
+
+### Skills & Tools
+Python | SQL | MySQL | Flask |
+
+---
+  
+### 📫 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-adawadedhanashri%40gmail.com-blue?style=flat&logo=gmail)](mailto:adawadedhanashri@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhanushri%20Adawde-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhanashri-adawade-32746b337)
